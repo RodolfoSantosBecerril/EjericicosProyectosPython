@@ -1,0 +1,18 @@
+11:15:33 AM- DEBUG [perosna.py:43]- 
+         ID Persona:1
+         Nombre:Juan
+         Apellido:Perez
+         Email:jperez@mail.com
+        
+11:15:33 AM- DEBUG [perosna.py:46]- 
+         ID Persona:None
+         Nombre:Juan
+         Apellido:Perez
+         Email:jperez@mail.com
+        
+11:15:33 AM- DEBUG [perosna.py:49]- 
+         ID Persona:1
+         Nombre:None
+         Apellido:None
+         Email:None
+        
